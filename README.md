@@ -1,8 +1,8 @@
-# cngrok
+
 # cngrok
 其项目主要实现 ngrok内网穿透, 管理维护隧道列表 切每条隧道 只收取一元钱 只为防止恶意注册
 
-# cngrok
+# 主要技术
 使用nodejs koa2 mongodb 搭建 api 管理
 使用微信扫码免注册登录  
 使用vue iview iview-admin 搭建前端管理页面
