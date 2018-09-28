@@ -1,0 +1,1 @@
+nohup /home/pi/workspace/go/src/ngrok/main/ngrok/ngrok -log /home/pi/workspace/go/src/ngrok/main/ngrok/ngrok.ssh.log -config /home/pi/workspace/go/src/ngrok/m $

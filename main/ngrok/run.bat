@@ -1,0 +1,1 @@
+ngrok.exe -log ngrok.ssh.log -config ngrok.cfg -proto tcp 22

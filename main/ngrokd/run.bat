@@ -1,0 +1,1 @@
+ngrokd.exe -domain="hexcode.cn" -httpAddr=":8081" -httpsAddr=":8082" -log ./ngrokd.log &
