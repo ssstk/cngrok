@@ -8,7 +8,7 @@
 - 余额提现 免收取手续费
 - 充值流水记录
 - 优惠金额显示
-<img src="https://cngrok-1257729714.cos.ap-chengdu.myqcloud.com/client/000001.png?v=1"></img>
+<img src="https://cngrok-1257729714.cos.ap-chengdu.myqcloud.com/client/000001.png?v=111"></img>
  ### 2018-11-16
   * 增加隧道续费功能
   * 增加支持Frp 
